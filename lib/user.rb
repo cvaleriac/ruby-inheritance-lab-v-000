@@ -4,8 +4,4 @@ class User
     @name = name
     @surname = surname
   end
-  def name(name, surname)
-    @name
-    @surname
-  end
 end
