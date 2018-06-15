@@ -1,16 +1,14 @@
 class User
 
   def initialize
-    name = [name]
-    surname = [surname]
-    @name = name
-    @surname = surname
+    first_name = @first_name
+    last_name = @last_name
   end
-  def first_name(name)
+  def first_name
     @name
   end
-  def last_name(surname)
-    @surname
+  def last_name
+    @last_name
   end
 
 end
