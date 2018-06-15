@@ -6,8 +6,11 @@ class User
     @name = name
     @surname = surname
   end
-  def name(name, surname)
+  def first_name(name)
     @name
+  end
+  def last_name(surname)
+    @surname
   end
 
 end
