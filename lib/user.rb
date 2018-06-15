@@ -8,5 +8,5 @@ class User
   def name(name, surname)
     @name
   end
-    
+
 end
