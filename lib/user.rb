@@ -10,4 +10,5 @@ class User
   def surname(surname)
     @surname
   end
-  
+
+end
