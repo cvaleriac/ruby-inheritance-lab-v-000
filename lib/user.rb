@@ -1,7 +1,8 @@
 class User
 
   def initialize
-    name = [name, surname]
+    name = [name]
+    surname = [surname]
     @name = name
     @surname = surname
   end
